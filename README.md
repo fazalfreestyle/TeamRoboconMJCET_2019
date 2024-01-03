@@ -1,10 +1,8 @@
-<br> To learn more about this project, click on this [link](https://sahq-azhar.github.io/robo2019.html).
-
 # TEAM ROBOCON MJCET-2019
 
 
 
-The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of Mongolia. 2 Robots were to be developed. One was a manually controlled four-wheeled bot(MR1) which should pass a physical message to the second robot. The second bot should be a four-legged Autonomous robot(MR2) following the gait pattern of a horse or a spider. The message passed in the form of the Gerege should be carried further by the second bot to the destination which is the sign of Victory. Both the bots had to take care of the time given and also the obstacles placed on the arena by following a certain path as per the Rulebook provided.
+The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of Mongolia. 2 Robots were to be developed. One is a manually controlled four-wheeled bot(MR1) that should pass a physical message to the second robot. The second bot should be a four-legged Autonomous robot(MR2) following the gait pattern of a horse or a spider. The message passed in the form of the Gerege should be carried further by the second bot to the destination which is the sign of Victory. Both the bots had to take care of the time given and also the obstacles placed on the arena by following a certain path as per the Rulebook provided.
 
  📕  [RULEBOOK](http://aburobocon2019.mnb.mn/uploads/file/Robocon_2019_Mongolia_RULE.pdf)
 
@@ -57,5 +55,6 @@ The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of M
 
  * [Youtube.com/TRM_2019](https://www.youtube.com/watch?v=6dfaND6Z6hM&t)
 
+<br> To learn more about this project, click on this [link](https://sahq-azhar.github.io/robo2019.html).
 
 **Eat, Sleep, TRM, Repeat!**
